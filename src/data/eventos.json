@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "titulo": "VueConf Latam 2026",
+    "fecha": "2026-03-12",
+    "categoria": "Tecnología",
+    "lugar": "Santiago Centro",
+    "descripcion": "Conferencia internacional sobre Vue y tecnologías frontend.",
+    "imagen":"images/vue.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Workshop Node.js Avanzado",
+    "fecha": "2026-04-05",
+    "categoria": "Tecnología",
+    "lugar": "Providencia",
+    "descripcion": "Taller práctico sobre arquitectura backend con Node y Express.",
+    "imagen":"images/node.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Concierto de Jazz Nocturno",
+    "fecha": "2026-02-20",
+    "categoria": "Música",
+    "lugar": "Teatro Municipal",
+    "descripcion": "Noche de jazz contemporáneo con artistas internacionales.",
+    "imagen":"images/jazz.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Expo Arte Digital",
+    "fecha": "2026-05-10",
+    "categoria": "Arte",
+    "lugar": "Centro Cultural La Moneda",
+    "descripcion": "Exposición interactiva de arte digital y experiencias inmersivas.",
+    "imagen":"images/digital-art.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Meetup Ciberseguridad 2026",
+    "fecha": "2026-03-28",
+    "categoria": "Tecnología",
+    "lugar": "Las Condes",
+    "descripcion": "Encuentro de especialistas en seguridad informática.",
+    "imagen":"images/cibersecurity.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Festival Gastronómico Urbano",
+    "fecha": "2026-04-18",
+    "categoria": "Gastronomía",
+    "lugar": "Parque Araucano",
+    "descripcion": "Evento culinario con foodtrucks y chefs invitados.",
+    "imagen":"images/gastronomia.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Charla Inteligencia Artificial Aplicada",
+    "fecha": "2026-06-02",
+    "categoria": "Tecnología",
+    "lugar": "Universidad de Chile",
+    "descripcion": "Conferencia sobre aplicaciones prácticas de IA en la industria.",
+    "imagen":"images/ai.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Feria del Libro Independiente",
+    "fecha": "2026-03-15",
+    "categoria": "Literatura",
+    "lugar": "Barrio Italia",
+    "descripcion": "Encuentro de editoriales independientes y autores emergentes.",
+    "imagen":"images/libro.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Torneo eSports Santiago",
+    "fecha": "2026-05-22",
+    "categoria": "Videojuegos",
+    "lugar": "Movistar Arena",
+    "descripcion": "Competencia profesional de videojuegos multijugador.",
+    "imagen":"images/esport.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Seminario Diseño UX/UI",
+    "fecha": "2026-04-12",
+    "categoria": "Diseño",
+    "lugar": "Vitacura",
+    "descripcion": "Seminario intensivo sobre experiencia de usuario y diseño de interfaces.",
+    "imagen":"images/ux.jpg"
+  }
+]
