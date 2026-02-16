@@ -89,6 +89,15 @@ Enlace que no navega, sino que abre un modal
 <div><img src="public/images/enlace-prevent-2.jpg" width=500></div>
 <div><img src="public/images/enlace-prevent-3.jpg" width=500></div>
 
+## Registro
+Contiene un panel donde se registran en tiempo real los últimos 15 eventos
+
+<div><img src="public/images/audit-log.jpg" width=500></div>
+<div><img src="public/images/audit-log-2.jpg" width=500></div>
+
+
+
+
 
 ### Clonar el repositorio
 
