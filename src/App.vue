@@ -272,7 +272,7 @@ input {
 
 .audit-log {
   border: 1px solid #ccc;
-  max-height: 200px;
+  max-height: 400px;
   overflow: auto;
   background-color: rgb(240, 237, 237);
   padding-block: 2em;
