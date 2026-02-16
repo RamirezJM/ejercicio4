@@ -17,12 +17,10 @@ const { evento, seleccionada } = defineProps({
 const emit = defineEmits(['seleccionar', 'favorito'])
 
 function seleccionar() {
-  console.log('seleccionar disparado')
   emit('seleccionar', evento.id)
 }
 
 function toggleFavorito(e) {
-  console.log('favorito disparado')
   emit('favorito', evento.id)
 }
 
@@ -38,7 +36,6 @@ function toggleFavorito(e) {
     <p>{{ evento.descripcion }}</p>
     <img :src="evento.imagen" :alt="evento.titulo">
     <button class="favorito" @click.stop="toggleFavorito">
-      <!-- {{ evento.favorito ? red : white }} -->
       <img :src="evento.favorito ? red : white" alt="favorito" class="icono-favorito" />
       <small>Me gusta</small></button>
   </article>
@@ -54,8 +51,6 @@ article {
   border-radius: 5px;
   padding: 1em;
   max-width: 400px;
-
-
 }
 
 .activa {

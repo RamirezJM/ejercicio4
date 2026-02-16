@@ -10,7 +10,7 @@
   </nav>
 </template>
 
-<style>
+<style scoped>
 nav {
   width: 100%;
   display: flex;
